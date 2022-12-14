@@ -15,12 +15,10 @@ There are many ways to do this. This doc just outlines one simple way, using the
 3) Google Sheets. I like to use sheets to stage the data before piping it into GA.
 4) Google Apps Script. Adds a lot of power and automation to Google sheets. We'll use 3, but you can just copy my sheet that has them already. 
 
-That's it! Details below.
+That's it! Will add the step by step instructions if helpful in addition to the code for the apps scripts and sheet.
 
-<Details below>
-First, start by creating accounts with your analytics system, an API provider, and copy this Google sheet.
 
-<more coming soon>
+
 
 Helpful Links:
 https://docs.etherscan.io/getting-started/creating-an-account
